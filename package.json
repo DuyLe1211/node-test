@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --inspect ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DuyLee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuyLe1211/node-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DuyLe1211/node-test/issues"
+  },
+  "homepage": "https://github.com/DuyLe1211/node-test#readme",
+  "description": ""
+}
